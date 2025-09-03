@@ -61,7 +61,7 @@
       <section id="kontak">
         <h2>Kontak</h2>
         <p>Email: <a href="mailto:andryirawan7@gmail.com">andryirawan7@gmail.com</a></p>
-        <p>Instagram: <a href="https://instagram.com/andryirawan7" target="_blank">@andryirawan7</a></p>
+        <p>Instagram: <a href="https://instagram.com/andryirawan545" target="_blank">@andryirawan7</a></p>
       </section>
     </main>
   </div>
